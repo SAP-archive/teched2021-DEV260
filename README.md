@@ -9,6 +9,13 @@ The script and more information can be found in this GitHub repo
 
 [abap-platform-rap-workshops](https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main/rap5xx/rap500)
 
+## Requirements needed to participate in this workshop 
+
+> In order to participate in this hands-on session you MUST have installed the latest version of Eclipse and the latest version of the ABAP Development Tools (ADT) in Eclipse.  
+> Please check the following two short documents how to do this if you have not already done it.  
+> [Install the ABAP Development Tools (ADT)](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/requirements_rap_workshops.md#3-install-the-abap-development-tools-adt)  
+> [Adapt the Web Browser settings in your ADT installation](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/requirements_rap_workshops.md#4-adapt-the-web-browser-settings-in-your-adt-installation) 
+
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
