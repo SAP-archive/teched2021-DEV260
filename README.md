@@ -15,6 +15,7 @@ The script and more information can be found in this GitHub repo
 > Please check the following two short documents how to do this if you have not already done it.  
 > [Install the ABAP Development Tools (ADT)](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/requirements_rap_workshops.md#3-install-the-abap-development-tools-adt)  
 > [Adapt the Web Browser settings in your ADT installation](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/requirements_rap_workshops.md#4-adapt-the-web-browser-settings-in-your-adt-installation) 
+> System details and credentials will be shared with you by the trainers during the workshop.  
 
 ## How to obtain support
 
