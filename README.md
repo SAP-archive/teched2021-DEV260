@@ -7,7 +7,7 @@ This repository contains the material for the SAP TechEd 2021 session called **D
 
 The script and more information can be found in this GitHub repo
 
-[Link to the workshop script](https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main/rap5xx/rap500)
+[Link to the workshop script and all exercises](https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main/rap5xx/rap500)
 
 ## Requirements needed to participate in this workshop 
 
