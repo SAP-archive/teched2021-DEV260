@@ -9,7 +9,7 @@ The script and more information can be found in this GitHub repo
 
 [Link to the workshop script and all exercises](https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main/rap5xx/rap500)
 
-[Link to the slides](../blob/main/files/TechEd%20Steampunk%20Integration%20Intro.pdf)
+[Link to the slides](../main/files/TechEd%20Steampunk%20Integration%20Intro.pdf)
 
 ## Requirements needed to participate in this workshop 
 
