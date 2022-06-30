@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-DEV260)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-DEV260)
+
 # DEV260 - SAP BTP ABAP Environment - Integration with SAP Analytics Cloud
 
 
